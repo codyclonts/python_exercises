@@ -25,7 +25,6 @@ def is_two(x):
 # In[249]:
 
 
-is_two(2.0)
 
 
 # In[284]:
@@ -41,7 +40,7 @@ def is_vowel(x):
 # In[291]:
 
 
-is_vowel('cat')
+
 
 
 # In[287]:
@@ -69,7 +68,7 @@ def is_consonant(x):
 # In[302]:
 
 
-is_consonant('cat')
+# is_consonant('cat')
 
 
 # In[312]:
@@ -88,7 +87,7 @@ def captitalize_consonant(x):
 # In[317]:
 
 
-captitalize_consonant('cats are fast')
+# captitalize_consonant('cats are fast')
 
 
 # In[ ]:
@@ -109,7 +108,7 @@ def calculate_tip():
 # In[320]:
 
 
-calculate_tip()
+# calculate_tip()
 
 
 # In[322]:
@@ -130,7 +129,7 @@ def apply_discount():
 # In[323]:
 
 
-apply_discount()
+# apply_discount()
 
 
 # In[324]:
@@ -149,7 +148,7 @@ def handle_commas(num):
 # In[325]:
 
 
-handle_commas('10,000,000')
+# handle_commas('10,000,000')
 
 
 # In[326]:
@@ -179,7 +178,7 @@ def get_letter_grade():
 # In[327]:
 
 
-get_letter_grade()
+# get_letter_grade()
 
 
 # In[328]:
@@ -199,7 +198,7 @@ def no_vowels(word):
 # In[329]:
 
 
-no_vowels('abracadabra')
+# no_vowels('abracadabra')
 
 
 # In[335]:
@@ -233,7 +232,7 @@ def normalize_name(string):
 # In[337]:
 
 
-normalize_name(' First and Last name 32 @')
+# normalize_name(' First and Last name 32 @')
 
 
 # In[ ]:
