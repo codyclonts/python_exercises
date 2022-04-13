@@ -171,7 +171,7 @@ def get_letter_grade():
     elif grade >= 60 and grade <=69:
         print ("D:", grade)
         
-    elif grade > 60:
+    elif grade < 60:
         print ("F:", grade)
 
 
